@@ -7,11 +7,19 @@ Course description:
 Lab descriptions
 
 Lab 1: Classes, arrays of objects
+
 Lab 2: Linked Lists
+
 Lab 3: Exceptions
+
 Lab 4: Stacks and Queues
+
 Lab 5: Intro to Recursion
+
 Lab 6: Advanced Recursion
+
 Lab 7: Sorting Algorithms
+
 Lab 8: Binary Search Trees
+
 Lab 9: Heaps and Priority Queues
