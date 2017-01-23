@@ -1,0 +1,13 @@
+Lawrence, 85483, 3
+Kansas City, 1500000, 2
+Smallville, 23, 0
+New York, 5000000, 2
+London, 8000000, 1
+Los Angeles, 3000000, 1
+Houston, 1000000, 0
+Wichita, 120000, 0
+Chicago, 2500000, 3
+Detroit, 800000, 3
+St. Louis, 2000000, 2
+Nashville, 700000, 1
+Miami, 400000, 1
