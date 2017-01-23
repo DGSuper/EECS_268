@@ -1,0 +1,31 @@
+20
+serve
+arrival A 10
+arrival B 20
+arrival C 50
+arrival D 80
+arrival E 70
+arrival F 65
+arrival G 60
+arrival H 5
+arrival I 95
+arrival J 90
+preview
+serve
+preview
+serve
+preview
+serve
+serve
+serve
+serve
+serve
+serve
+preview
+serve
+preview
+serve
+preview
+serve
+arrival K 100
+serve

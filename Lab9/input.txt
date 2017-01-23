@@ -1,0 +1,10 @@
+20
+arrival John 40
+arrival Mary 63
+arrival Chris 20
+serve
+arrival Howard 10
+preview
+serve
+preview
+arrival Pat 82
