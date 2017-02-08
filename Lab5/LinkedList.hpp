@@ -47,7 +47,7 @@ int LinkedList<T>::positionOf(T value) const
 {
     int pos = 0;
     Node<T>* curr = m_front;
-    while(curr->getNext()!=nullptr)
+    while(curr!=nullptr)
     {
         pos++;
         if(curr->getItem()==value)
